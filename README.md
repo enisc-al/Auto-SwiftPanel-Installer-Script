@@ -1,2 +1,14 @@
 # Auto-SwiftPanel-Installer-Script
-Auto-SwiftPanel-Installer-Script. Works only for CentOS 7.
+
+This is new Auto SwiftPanel Installer script.
+
+This file works only in CentOS 7.
+Tested and works.
+
+You have just to install .sh file, and everythink will be automaticlly installed + templates.
+
+Usage:
+
+
+
+And you are ready to start installation.

@@ -9,6 +9,6 @@ You have just to install .sh file, and everythink will be automaticlly installed
 
 Usage:
 
-
+git clone
 
 And you are ready to start installation.

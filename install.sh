@@ -262,6 +262,10 @@ sleep 2
 
 output1 "######################################################################################"
 
+cd
+
+rm -rf Auto-SwiftPanel-Installer-Script
+
 }
 
 output1 "Do you want to start Auto SwiftPanel installer?"

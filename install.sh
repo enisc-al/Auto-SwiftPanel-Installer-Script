@@ -1,14 +1,5 @@
 #!/bin/sh
 
-###########################################################
-# Created by @enisc-al (github)
-# This Script was created at 
-# https://github.com/enisc-al/Auto-SwiftPanel-Installer-Script
-# @ 2021 Copyright
-# Facebook: https://www.facebook.com/killeri.amxx
-# Youtube: https://www.youtube.com/c/enisigaming/
-###########################################################
-
 clear
 
 Declined(){

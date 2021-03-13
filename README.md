@@ -9,6 +9,12 @@ You have just to install and run .sh file, and everythink will be automaticlly i
 
 Usage:
 
-git clone
+cd
+
+git clone https://github.com/enisc-al/Auto-SwiftPanel-Installer-Script/blob/0bff24cb12926646d0dc0b58d1da094d524bfc8d/install.sh
+
+chmod +x install.sh
+
+sh install.sh
 
 And you are ready to start installation.

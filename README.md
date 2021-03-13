@@ -11,6 +11,8 @@ Usage:
 
 cd
 
+yum install git -y
+
 git clone https://github.com/enisc-al/Auto-SwiftPanel-Installer-Script.git
 
 cd Auto-SwiftPanel-Installer-Script

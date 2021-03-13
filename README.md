@@ -11,7 +11,9 @@ Usage:
 
 cd
 
-git clone https://github.com/enisc-al/Auto-SwiftPanel-Installer-Script/blob/0bff24cb12926646d0dc0b58d1da094d524bfc8d/install.sh
+git clone https://github.com/enisc-al/Auto-SwiftPanel-Installer-Script.git
+
+cd Auto-SwiftPanel-Installer-Script
 
 chmod +x install.sh
 
